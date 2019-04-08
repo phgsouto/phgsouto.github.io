@@ -1,5 +1,54 @@
-theme: jekyll-theme-hacker
+# Site settings
+title: "phgsouto's ramblings"
+url: "https:/phgsouto.github.io"
+baseurl: ""
+timezone: America/Sao_Paulo
+description: >
+  phgsouto's ramblings about thechnology
 
-title: "phgsouto's ramblings..."
-description: "phgsouto's personal blog"
-url: "https://phgsouto.github.io/"
+# Your information
+email: phgsouto@gmail.com
+author: phgsouto <Pedro H. G. Souto>
+avatar: "http://www.gravatar.com/avatar/fcf3a646d97e7dde7abcc34ffeb99b44"
+profile: Nerd. Technology enthusiast.
+twitter_username: phgsouto
+github_username:  phgsouto
+profile_links:
+Email: "mailto:phgsouto@gmail.com"
+GitHub: "https://github.com/phgsouto/phgsouto.github.io"
+
+excerpt_separator: <!--more-->
+
+header:
+  links:
+    About: /about/
+    Category: /category/
+    #Donate: https://laobubu.net/donate.html
+
+permalink: /archivers/:title
+plugins:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 5
+paginate_path: "page:num"
+
+highlighter: rouge
+markdown: kramdown
+
+# https://jekyllrb.com/docs/configuration/#precedence
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax
+
