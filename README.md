@@ -1,3 +1,3 @@
-# Phgsouto's ramblings -- phgsouto.github.io
-
+# Phgsouto's ramblings
 Personal blog of Phgsouto!
+[https://phgsouto.github.io/]
