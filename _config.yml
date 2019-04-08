@@ -1,7 +1,7 @@
 # Site settings
 title: "phgsouto's ramblings"
-url: "https:/phgsouto.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+url: "https:/phgsouto.github.io"
+baseurl: ""
 timezone: America/Sao_Paulo
 description: >
   phgsouto's ramblings about thechnology
@@ -16,17 +16,11 @@ github_username:  phgsouto
 profile_links:
 Email: "mailto:phgsouto@gmail.com"
 GitHub: "https://github.com/phgsouto/phgsouto.github.io"
-# You can add more profile links above, or edit _includes/sidebar.html 
-
-# Comment Service (Disqus or 多说)
-#  choose one and un-comment the line to active it
-#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
-#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 excerpt_separator: <!--more-->
 
 header:
-  links:             # Links on the header. Link to in-site page with a slash as prefix
+  links:
     About: /about/
     Category: /category/
     #Donate: https://laobubu.net/donate.html
