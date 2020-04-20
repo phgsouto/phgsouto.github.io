@@ -6,9 +6,11 @@ permalink: /about/
 
 Welcome to my website!
 
-My name is Pedro and I'm a technology enthusiast. With 6 years experience in
-IT, my main focus are on administration of SQL Server Databases, Windows Server and Linux systems.
+My name is Pedro and I'm a technology enthusiast.
 
-Please check my github profile page!
+Please check:
+- my [github profile](https://github.com/phgsouto)
+- my [twitter page](https://twitter.com/phgsouto)
+- my [linkedin profile](https://www.linkedin.com/in/phgsouto/)
 
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+> This website is using the [jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console/)'s theme

@@ -44,6 +44,7 @@ $ sudo nano /etc/apt/sources.list
 ```
 
 If you installed debian without internet connection, your sources.list will be similar to this:
+
 ```sh
 deb cdrom:[Debian GNU/Linux testing _Buster_ - Official Snapshot amd64 DVD Binary-1 20190327-09:46]/ buster contrib main
 
