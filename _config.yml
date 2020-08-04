@@ -15,6 +15,7 @@ GitHub: "https://github.com/phgsouto"
 
 header_pages:
   - index.md
+  - games.md
   - about.md
 
 footer: 'follow me on <a href="https://twitter.com/phgsouto">twitter</a>'
